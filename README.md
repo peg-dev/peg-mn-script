@@ -16,7 +16,7 @@ This script will install **pegasus**.
 After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps for Windows Wallet
 1. Open the pegasus Wallet.
 2. Go to RECEIVE and create a New Address: **MN1**
-3. Send **10000** **Collatral** to **MN1**.
+3. Send **Required** **Collatral** to **MN1**.
 4. Wait for confirmations.
 5. Go to **Tools -> "Debug console - Console"**
 6. Type the following command: **masternode outputs**
