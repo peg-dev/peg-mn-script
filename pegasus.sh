@@ -5,7 +5,7 @@ CONFIG_FILE='pegasus.conf'
 CONFIGFOLDER='/root/.pegasus'
 COIN_DAEMON='/usr/local/bin/pegasusd'
 COIN_CLI='/usr/local/bin/pegasus-cli'
-COIN_REPO='https://www.dropbox.com/s/cvj8y95ppwpdw1f/peg-linux-daemon.tar.gz'
+COIN_REPO='https://github.com/peg-dev/pegasus/releases/download/V3.0.0.2/peg-linux-daemon-x64-v3.0.0.2.tar.gz'
 COIN_NAME='PEGASUS'
 COIN_PORT=1515
 
